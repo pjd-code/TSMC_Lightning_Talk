@@ -2,7 +2,7 @@
 Supplementary Material for the 2021 TSMC Lightning Talk
 
 
-References
+**References**
 
 Sandve, Geir Kjetil et al. “Ten simple rules for reproducible computational research.” PLoS computational biology vol. 9,10 (2013): e1003285. doi:10.1371/journal.pcbi.100328
 

@@ -1,4 +1,4 @@
-# TSMC_Lightning_Talk
+# TSMC Lightning Talk
 Supplementary Material for the 2021 TSMC Lightning Talk *"Using Cloud Based Jupyter Notebooks to Effectively Analyze and Share Microbiome Data"*
 
 

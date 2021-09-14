@@ -11,4 +11,20 @@ Barba, Lorena A. “The hard road to reproducibility.” Science (New York, N.Y.
 
 Rule, Adam et al. “Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks.” PLoS computational biology vol. 15,7 e1007007. 25 Jul. 2019, doi:10.1371/journal.pcbi.1007007
 
+
+Introduction to Google Colab
 https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index 
+
+
+
+Alternatives to Google Colab
+
+Binder
+https://mybinder.org/
+
+Gradient
+https://gradient.run/
+
+Kaggle
+https://www.kaggle.com/
+

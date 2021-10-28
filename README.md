@@ -28,3 +28,16 @@ https://gradient.run/
 Kaggle
 https://www.kaggle.com/
 
+Useful Tools / Colabs
+
+https://view.qiime2.org/
+
+https://developer.basespace.illumina.com/docs/content/documentation/cli/cli-overview
+
+https://login.illumina.com/platform-services-manager/?rURL=https://my.illumina.com/redirect&clientId=myillumina-api&redirectMethod=GET#/register
+
+https://colab.research.google.com/drive/1hpo5hP4DrA7RqTtJYW8Xdr8JRIDsHCtX?usp=sharing
+
+https://colab.research.google.com/drive/1RRl-4jt5095ZuOi2huPg-sbbBwzEhbdO?usp=sharing
+
+https://colab.research.google.com/drive/1k_DbHNxUGotPu2Q7DJOpUhEEW6pWaxxz?usp=sharing
